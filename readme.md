@@ -1,5 +1,3 @@
 hi
 
 hello
-
-master branch
