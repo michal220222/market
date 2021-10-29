@@ -2,4 +2,4 @@ hi
 
 hello
 
-new branch
+master branch
