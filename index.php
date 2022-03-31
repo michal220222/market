@@ -1,10 +1,7 @@
 <html>
   <body>
     <div>
-      to jest moj nowy plik with no commit 
-      added line in branch 1
-      added second line in branch1 
-      this line is created on the master branch 
+      to jest master branch 
     </div>
   </body>
 </html>
