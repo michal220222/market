@@ -1,7 +1,7 @@
 <html>
   <body>
     <div>
-      to jest master branch 
+      ten text jest zmieniony
     </div>
   </body>
 </html>
