@@ -1,11 +1,11 @@
 <html>
   <body>
     <div>
-      ten text jest zmieniony
+      this line is changed 1
     </div>
 
     <div>
-      this line is aded in master brunch
+      this line is changed 2 
     </div>
   </body>
 </html>
