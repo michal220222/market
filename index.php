@@ -6,6 +6,7 @@
 
     <div>
       this line is changed 2 
+      additional line 3
     </div>
   </body>
 </html>
